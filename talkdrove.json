@@ -4,7 +4,7 @@
     "logo": "https://i.ibb.co/7t19K6qJ/jpg.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://session.talkdrove.com",
-    "owner-verification":"ranusuta8@gmail.com",
+    "owner-verification":"talkdrove@gmail.com",
   
     "env": {
       "SESSION_ID": {
