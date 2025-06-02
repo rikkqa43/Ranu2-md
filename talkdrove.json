@@ -1,0 +1,19 @@
+{
+    "bot-name": "RANU-MD",
+    "description": "A WhatsApp bot created using Node.js",
+    "logo": "https://i.ibb.co/7t19K6qJ/jpg.jpg",
+    "keywords": ["bot"],
+    "documentation-link": "https://session.talkdrove.com",
+    "owner-verification":"ranusuta8@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here",
+        "value":"",
+        "required": true
+        
+      }
+     
+    }
+  
+}
